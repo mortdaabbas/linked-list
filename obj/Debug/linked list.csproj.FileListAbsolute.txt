@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\linked list\bin\Debug\linked list.exe.config
+C:\Users\user\source\repos\linked list\bin\Debug\linked list.exe
+C:\Users\user\source\repos\linked list\bin\Debug\linked list.pdb
+C:\Users\user\source\repos\linked list\obj\Debug\linked list.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\linked list\obj\Debug\linked list.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\linked list\obj\Debug\linked list.exe
+C:\Users\user\source\repos\linked list\obj\Debug\linked list.pdb
