@@ -24,7 +24,7 @@ namespace linked_list
         {
            static int count;
 
-           static linkedlistnode head;
+          private linkedlistnode head;
             public linkedlist()
             {
                 head = null;
