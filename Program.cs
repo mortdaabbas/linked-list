@@ -25,7 +25,7 @@ namespace linked_list
            static int count;
 
            static linkedlistnode head;
-            static linkedlist()
+            public linkedlist()
             {
                 head = null;
                 count = 0;
@@ -69,8 +69,8 @@ namespace linked_list
                 linkedlist.AddNodetofront(i);
             }
             linkedlist.printlist();
-            linkedlist n1 = new linkedlist();
-           int f= n1.Find(2);
+            
+           int f= linkedlist.Find(0);
             if (f != -1)
                 Console.WriteLine("found");
             else
